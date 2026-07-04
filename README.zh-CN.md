@@ -44,6 +44,11 @@
 > [!NOTE]
 > **Get Seedance 2.5 Early Access:** Seedance 2.5 early access is open through EvoLink. Use the current Seedance 2 API path while the 2.5 rollout is opening: https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service
 
+## 示例视频
+
+- [观看 Seedance 2 mini demo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/seedance-2.0-gateway-service/videos/evolink-seedance2-mini.mp4)
+- [观看 Seedance 4K 水印 demo](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/seedance-2.0-gateway-service/videos/evolink-seedance-4k-watermarked-x265-crf26.mp4)
+
 ```bash
 curl --request POST \
   --url https://api.evolink.ai/v1/videos/generations \

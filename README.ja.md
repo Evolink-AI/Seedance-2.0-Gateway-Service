@@ -294,9 +294,9 @@ Seedance-2.5-Gateway-Service/
 
 ## 関連する Seedance リポジトリ
 
-- [Seedance 2.5 Gateway Service: Early Access and Current API Path](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
-- [Seedance 2 Video Gen Skill for OpenClaw](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- [Awesome Seedance 2 Guide](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide)
+- [Seedance 2.5 Gateway Service: Early Access and Current API Path](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Seedance 2 Video Gen Skill for OpenClaw](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Awesome Seedance 2 Guide](https://github.com/Evolink-AI/awesome-seedance-2.5-guide)
 
 ## 関連リンク
 

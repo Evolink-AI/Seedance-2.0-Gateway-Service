@@ -30,9 +30,9 @@ Create a Seedance 2.0 video task through the EvoLink API:
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service"><strong>Get Seedance 2.5 Early Access</strong></a> &nbsp;·&nbsp;
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service"><strong>View API Docs</strong></a> &nbsp;·&nbsp;
   <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service&utm_content=api_key"><strong>Get API Key</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/awesome-seedance-2.5-prompts"><strong>Seedance Prompts</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/awesome-seedance-2.5-guide"><strong>Seedance Guide</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw"><strong>Skill</strong></a>
+  <a href="https://github.com/Evolink-AI/awesome-seedance-2.0-prompts"><strong>Seedance Prompts</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Evolink-AI/awesome-seedance-2.5-guide"><strong>Seedance Guide</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service"><strong>Skill</strong></a>
 </p>
 
 > [!NOTE]
@@ -468,9 +468,9 @@ These docs now cover both **standard** and **fast** variants for text-to-video, 
 
 ## Related Seedance Repositories
 
-- [Seedance 2.5 Gateway Service: Early Access and Current API Path](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service) — this repository
-- [Seedance 2 Video Gen Skill for OpenClaw](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) — OpenClaw skill integration for Seedance workflows
-- [Awesome Seedance 2 Guide](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide) — broader Seedance ecosystem guide and discovery entry
+- [Seedance 2.5 Gateway Service: Early Access and Current API Path](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service) — this repository
+- [Seedance 2 Video Gen Skill for OpenClaw](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service) — OpenClaw skill integration for Seedance workflows
+- [Awesome Seedance 2 Guide](https://github.com/Evolink-AI/awesome-seedance-2.5-guide) — broader Seedance ecosystem guide and discovery entry
 
 ## Related Links
 

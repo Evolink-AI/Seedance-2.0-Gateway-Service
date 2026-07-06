@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service">Voir les prix de Seedance 2.5</a> ·
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">Obtenir une API Key</a> ·
+  <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key">Obtenir une API Key</a> ·
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">Lire la documentation API</a>
 </p>
 
@@ -297,7 +297,7 @@ Seedance-2.5-Gateway-Service/
 ## Liens associés
 
 - [Seedance 2.5 Early Access](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service)
-- [Get API Key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
+- [Get API Key](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key)
 - [EvoLink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
 
 > Veuillez consulter la [Disponibilité Régionale](./docs/regional-availability.fr.md) avant l'intégration.

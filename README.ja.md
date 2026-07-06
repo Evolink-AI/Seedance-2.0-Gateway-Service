@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service">Seedance 2.5 の価格を見る</a> ·
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">API キーを取得</a> ·
+  <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key">API キーを取得</a> ·
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">API ドキュメントを読む</a>
 </p>
 
@@ -301,7 +301,7 @@ Seedance-2.5-Gateway-Service/
 ## 関連リンク
 
 - [Seedance 2.5 Early Access](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service)
-- [Get API Key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
+- [Get API Key](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key)
 - [EvoLink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
 
 > 統合前に [地域別提供状況](./docs/regional-availability.ja.md) をご確認ください。

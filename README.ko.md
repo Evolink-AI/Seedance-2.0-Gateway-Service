@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service">Seedance 2.5 가격 보기</a> ·
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">API 키 받기</a> ·
+  <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key">API 키 받기</a> ·
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">API 문서 읽기</a>
 </p>
 
@@ -301,7 +301,7 @@ Seedance-2.5-Gateway-Service/
 ## 관련 링크
 
 - [Seedance 2.5 Early Access](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service)
-- [Get API Key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
+- [Get API Key](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key)
 - [EvoLink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
 
 > 통합 전에 [지역별 제공 현황](./docs/regional-availability.ko.md)을 확인해 주세요.

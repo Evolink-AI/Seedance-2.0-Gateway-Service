@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service">Get Seedance 2.5 Early Access and view pricing</a> ·
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">Get your API key</a> ·
+  <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key">Get your API key</a> ·
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api">Read current Seedance API docs</a>
 </p>
 
@@ -29,7 +29,7 @@ Create a Seedance 2.0 video task through the EvoLink API:
 <p align="center">
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service"><strong>Get Seedance 2.5 Early Access</strong></a> &nbsp;·&nbsp;
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service"><strong>View API Docs</strong></a> &nbsp;·&nbsp;
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service"><strong>Get API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service&utm_content=api_key"><strong>Get API Key</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/awesome-seedance-2.5-prompts"><strong>Seedance Prompts</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/awesome-seedance-2.5-guide"><strong>Seedance Guide</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw"><strong>Skill</strong></a>
@@ -475,7 +475,7 @@ These docs now cover both **standard** and **fast** variants for text-to-video, 
 ## Related Links
 
 - [Seedance 2.5 Early Access](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.5-Gateway-Service)
-- [Get your API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
+- [Get your API key](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api&utm_content=api_key)
 - [EvoLink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-api)
 
 > Please review [Regional Availability](./docs/regional-availability.md) before integration.

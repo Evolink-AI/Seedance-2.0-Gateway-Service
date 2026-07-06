@@ -12,7 +12,7 @@
 
 > **O Seedance 2.0 Gateway Service já está disponível.** 
 >
-> 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.0-API)** fornece acesso estável ao Seedance 2.0 Gateway Service para construção de aplicações de vídeo AI multimodais.
+> 🚀 **[evolink.ai](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=Seedance-2.0-API&utm_content=api_key)** fornece acesso estável ao Seedance 2.0 Gateway Service para construção de aplicações de vídeo AI multimodais.
 
 ---
 

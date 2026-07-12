@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> **Maintenance notice:** Current Seedance 2.0 Standard, Fast, and Mini documentation has moved to the [canonical API + Agent Skill repository](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw). This localized file is retained only for historical inbound links.
+> **Maintenance notice:** Current Seedance 2.0 Standard, Fast, and Mini documentation has moved to the [canonical API + Agent Skill repository](https://github.com/Evolink-AI/seedance-2-family-video-gen-skill). This localized file is retained only for historical inbound links.
 
 # 🎬 Seedance 2.5 Gateway Service
 

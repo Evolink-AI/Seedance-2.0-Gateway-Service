@@ -1,6 +1,6 @@
 [English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [Español](./README.es.md) | [Deutsch](./README.de.md) | [Français](./README.fr.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Türkçe](./README.tr.md) | [Русский](./README.ru.md)
 
-> **Maintenance notice:** Current Seedance 2.0 Standard, Fast, and Mini documentation has moved to the [canonical API + Agent Skill repository](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw). This localized file is retained only for historical inbound links.
+> **Maintenance notice:** Current Seedance 2.0 Standard, Fast, and Mini documentation has moved to the [canonical API + Agent Skill repository](https://github.com/Evolink-AI/seedance-2-family-video-gen-skill). This localized file is retained only for historical inbound links.
 
 # Guía de precios, modelos y generación de video con el Seedance 2.5 Gateway Service
 
